@@ -1,0 +1,23 @@
+{
+  "name": "fed-e-task-2",
+  "version": "1.0.0",
+  "description": "## 简答题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onexxx/fed-e-task-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onexxx/fed-e-task-2/issues"
+  },
+  "homepage": "https://github.com/onexxx/fed-e-task-2#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
